@@ -1,0 +1,3 @@
+## Watch the Video from <a href="http://opengovernmentdata.org/camp2010/after/">Open Government Camp 2010</a>
+
+<iframe src="http://player.vimeo.com/video/21711338" width="601" height="338" frameborder="0"></iframe><p><a href="http://vimeo.com/21711338">#opendata</a> from <a href="http://vimeo.com/okf">Open Knowledge Foundation</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
