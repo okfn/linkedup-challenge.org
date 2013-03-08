@@ -58,7 +58,7 @@ ul#navigation li a {  padding:8px 8px 4px 0; margin-bottom:0px; display:inline-b
 
 .logo { padding-bottom:30px;}
 
-
+.usecase_title { text-align:right}
 
 /* the grid */
 .col-1, .col-2, .col-3, .col-4, .col-4-5, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {margin-right:35px; float:left;}
