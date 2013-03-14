@@ -50,8 +50,8 @@ li { margin:0 0 10px 15px; list-style:square; font-size:18px; line-height:1.4em;
 #content { width:925px; margin:0 auto; padding:100px 0 0 0; }
 
 ul#navigation { position:fixed; top:60px; margin-left:-40px;}
-ul#navigation li { list-style:none; font-size:16px; margin:0 0 10px 0; text-shadow:1px 1px 2px #fff; text-align: right;}
-ul#navigation li a {  padding:8px 8px 4px 0; margin-bottom:0px; display:inline-block; text-align: right;}
+ul#navigation li { list-style:none; font-size:16px; margin:0 0 5px 0; text-shadow:1px 1px 2px #fff; text-align: right;}
+ul#navigation li a {  padding:0px 8px 0	px 0; margin-bottom:0px; display:inline-block; text-align: right;}
 
 .block { border-bottom:1px solid #222; margin: 40px 0; padding:50 0 50px 0;}
 .block:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
