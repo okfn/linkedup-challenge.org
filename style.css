@@ -47,9 +47,9 @@ li { margin:0 0 10px 15px; list-style:square; font-size:18px; line-height:1.4em;
 
 
 #wrapper { background:url('images/grad-sphere.png') fixed no-repeat center top}
-#content { width:925px; margin:0 auto; padding:100px 0 0 0; }
+#content { width:75%; margin:0 auto; padding:100px 0 0 0; }
 
-ul#nav { position:fixed; top:60px; margin-left:-40px;}
+ul#nav { float:left; top:60px; margin-left:-40px;}
 ul#nav li { list-style:none; font-size:16px; margin:0 0 15px 0; text-shadow:1px 1px 2px #fff; text-align: right;}
 ul#nav li a {  padding:0px 8px 0	px 0; margin-bottom:0px; display:inline-block; text-align: right;}
 
@@ -60,7 +60,7 @@ ul#nav li a {  padding:0px 8px 0	px 0; margin-bottom:0px; display:inline-block; 
 
 .usecase_title { text-align:right}
 
-/* the grid */
+/* the grid 
 .col-1, .col-2, .col-3, .col-4, .col-4-5, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {margin-right:35px; float:left;}
 .col-12 { margin-right:0px;}
 
@@ -77,10 +77,10 @@ ul#nav li a {  padding:0px 8px 0	px 0; margin-bottom:0px; display:inline-block; 
 .col-3 {width:205px;}
 .col-2 {width:125px;}
 .col-1 {width:45px;}  
-
+**/
 
 .last {margin-right:0 !important;}
-.content-shifter { float:right; width:685px; }
+.content-shifter { float:right; width:75%; }
 
 /* =============================================== */
 /* = Individual Pages (or sections) = */
