@@ -26,6 +26,8 @@ a:active { color:#666;}
 h1, h2, h3, h4, h5, h6 { color:#666; font-weight:normal; letter-spacing:--0.5px;}
 h1 { font-size:40px; font-weight:normal;}
 
+.title  { font-size:60px;}
+
 h2 { font-size:30px; margin-bottom:34px;}
 h2 + p { margin-top:-30px;}
 p + p { margin-top:-10px;}
@@ -118,7 +120,7 @@ ul#nav li a {  padding:0px 8px 0	px 0; margin-bottom:0px; display:inline-block; 
 .footer .col-6 p { font-size:inherit; color:#444;}
 .footer .col-3 p { text-align:right; opacity:1;}
 
-.titletext {font-size: 40px; color:#03567e; text-align:right;}
+.titletext {color:#03567e; text-align:right;}
 
 .btn-success {
 font-size: 21px;
